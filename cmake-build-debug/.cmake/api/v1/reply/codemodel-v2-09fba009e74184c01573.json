@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "W5_DB",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Q1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Q1-Debug-807339e0de6b421f7b21.json",
+					"name" : "Q1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Q2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Q2-Debug-b5dbb0735724192bb2d0.json",
+					"name" : "Q2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Q3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Q3-Debug-bc23f7147fc2aee4550f.json",
+					"name" : "Q3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Q4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Q4-Debug-d65af2ee02561c7cc9b4.json",
+					"name" : "Q4",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Michael Murphy/Documents/Dev/CS-121/W5_DB/cmake-build-debug",
+		"source" : "C:/Users/Michael Murphy/Documents/Dev/CS-121/W5_DB"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
