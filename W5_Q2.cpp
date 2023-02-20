@@ -4,7 +4,7 @@
  * CSC 121
  * 2/19/23
  *
- * W5 Q2 - Up Counter
+ * W5 Q2 - Accumulator
  */
 
 #include <iostream>
